@@ -23,10 +23,11 @@ p{
 .profile-img{
     margin-left: auto;
     margin-right: auto;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
 }
 
-#footer{
-    color: whitesmoke;
+.footer {
+    background-color: black; 
+    color: white ;
 }
